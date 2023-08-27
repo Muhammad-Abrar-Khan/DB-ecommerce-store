@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Raleway&family=Rubik&display=swap");
-/*SAAS Template*/
-/*global classes*/
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
+/*              Sass Template           */
+/*  global classes  */
 button, button:focus {
   outline: none !important;
   box-shadow: none !important;
 }
 
-/*Typograpghy classes*/
+/* typography classes */
 .font-baloo {
   font-family: "Baloo Thambi 2", cursive;
 }
@@ -100,4 +100,4 @@ button, button:focus {
   margin-top: 1rem;
 }
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=style.css.map */
